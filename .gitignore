@@ -1,0 +1,2 @@
+# Remove temp files being track
+.ipynb_checkpoints/
